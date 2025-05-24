@@ -1,0 +1,12 @@
+ 2025/02/05 10:29:38 
+StreamlinePlotCalcFunc::getLocatorObjects - No locators provided in location parameter 'Location List'.
+ 2025/02/05 10:29:39 
+GeometricCCLObject::getDomainNameList - VECTOR:Vector 1 Could not locate Domain List entry fluid_domain.
+ 2025/02/05 10:29:39 
+VectorPlotCalcFunc::calcVectorPlot - Cannot create vector 'Vector 1'. Domain List is not provided.
+ 2025/02/05 10:29:39 
+VectorPlotCalcFunc::doColour - Cannot colour vector 'Vector 1'. Variable 'Velocity' is not found.
+ 2025/02/05 10:29:39 
+SymbolGeometricCCLObject::renderSymbol - Could not get CCL Object for vector variable Velocity
+ 2025/02/05 10:29:39 
+SymbolGeometricCCLObject::renderSymbol - Could not get CCL Object for vector variable Velocity
